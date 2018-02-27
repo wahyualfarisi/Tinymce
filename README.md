@@ -1,2 +1,2 @@
 # ckedior
-Upload picture using ckeditor
+Upload picture using TinyMce
